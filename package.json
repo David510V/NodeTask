@@ -17,6 +17,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.9",
     "mongoose": "^5.9.26",
+    "request": "^2.88.2",
     "sharp": "^0.25.4",
     "validator": "^13.1.1"
   },
